@@ -1,5 +1,4 @@
-# Quick-DirtyJSMinifyWithPHP
-Quick &amp; dirty Javascript minify with PHP
+# Quick &amp; dirty Javascript minify with PHP
 
 You can edit your javascript code and it will be deployed minified.
 
